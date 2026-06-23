@@ -28,7 +28,13 @@ This application is installed on the computers at the Hervás high school, which
 This application is a simplified version of the official Mambrino software, designed for learning purposes. Its function is to store and manage the personal and medical data of each patient discharged from a simulated hospital.
 Students can add new patients and diagnose them using everything they have learned in their coursework.
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Aplicación
+
+Pantalla de inicio de sesión
 <img width="1532" height="756" alt="Inicio" src="https://github.com/user-attachments/assets/fbc29f7d-c0b2-4d17-9510-193fc1b59cc5" />
+
 <img width="1920" height="1080" alt="Resgistro_usuario" src="https://github.com/user-attachments/assets/2bab9587-f952-4a43-a30b-5ea1d29efe34" />
 <img width="1920" height="1080" alt="Sesion_iniciada" src="https://github.com/user-attachments/assets/005c4ada-d71d-40cd-95d5-bf19ff5e75f2" />
 <img width="1532" height="758" alt="Ambito" src="https://github.com/user-attachments/assets/3838ef36-539b-4152-8d30-94c8fa341401" />
