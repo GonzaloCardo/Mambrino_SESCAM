@@ -1,5 +1,4 @@
 
-<img width="1920" height="1080" alt="Sesión_fallida" src="https://github.com/user-attachments/assets/c4c247b3-8df2-4325-afe8-7f9753d5d970" />
 <img width="1920" height="1080" alt="Resgistro_usuario" src="https://github.com/user-attachments/assets/2bab9587-f952-4a43-a30b-5ea1d29efe34" />
 <img width="1920" height="1080" alt="Sesion_iniciada" src="https://github.com/user-attachments/assets/005c4ada-d71d-40cd-95d5-bf19ff5e75f2" />
 <img width="1920" height="1080" alt="Cambiar_piso" src="https://github.com/user-attachments/assets/388c9c89-d319-455e-973f-f838303f51dd" />
