@@ -1,12 +1,32 @@
 <h1>MAMBRINO SESCAM</h1>
-<h2>Un proyecto para aydudar a estudiantes de medicina</h2>
+<h2>Una aplicación para ayudar a estudiantes de medicina</h2>
 
-### Sobre Mí
-- Tengo 22 años y actualmente vivo en Cuenca, España.
-- Tengo un título de DAM (Desarrollo de Aplicaciones Multiplataformas) y aprobé un curso de especialización de Desarrollo de Videojuegos y Realidad Virtual
-- Me gusta mucho programar y diseñar aplicaciones, entornos y algún que otro videojuego.
+### Contexto
+Esta aplicación fue hecha para mi proyecto final de DAM, para el cual estuve en contacto con profesores del instituto I.E.S. Hervás.
+El objetivo de esta aplicación es ser utilizada por estudiantes de medicina de dicho instituto para practicar, ya que una queja recurrente entre ellos es que al llegar a las prácticas les cuesta mucho aprender a usar la aplicación Mambrino que se usa en los hospitales de Castilla-La Mancha.
+Para ello, los profesores del centro me dieron instrucciones de como debía funcionar la aplicación y como sería su apariencia.
+Esta aplicación está instalada en los ordenadores del instituto Hervás con un servidor propio que gestiona todos los informes en sus instalaciones.
+
+### ¿Qué hace?
+Esta aplicación consiste en una versión más sencilla del Mambrino oficial, diseñada para aprender. Su función es almacenar y gestionar los datos personales y médicos de cada paciente dado de alta en un supuesto hospital.
+Los alumnos pueden agregar pacientes nuevos y diagnosticarlos con todo lo que han aprendido en su curso.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<h2>An Application to Help Medical Students</h2>
+
+### Context
+This application was created for my final project in the DAM (Digital Administration and Management) program, for which I collaborated with teachers at the I.E.S. Hervás high school.
+
+The application's objective is for medical students at this school to use it for practice, as a recurring complaint among them is that they struggle to learn how to use the Mambrino application, which is used in hospitals in Castilla-La Mancha, when they begin their clinical rotations.
+
+To address this, the school's teachers provided me with instructions on how the application should function and what its appearance should be.
+
+This application is installed on the computers at the Hervás high school, which uses its own server to manage all reports on its premises.
+
+### What Does It Do?
+This application is a simplified version of the official Mambrino software, designed for learning purposes. Its function is to store and manage the personal and medical data of each patient discharged from a simulated hospital.
+Students can add new patients and diagnose them using everything they have learned in their coursework.
 
 <img width="1532" height="756" alt="Inicio" src="https://github.com/user-attachments/assets/fbc29f7d-c0b2-4d17-9510-193fc1b59cc5" />
 <img width="1920" height="1080" alt="Resgistro_usuario" src="https://github.com/user-attachments/assets/2bab9587-f952-4a43-a30b-5ea1d29efe34" />
