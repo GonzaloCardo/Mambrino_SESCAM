@@ -17,11 +17,8 @@ Los alumnos pueden agregar pacientes nuevos y diagnosticarlos con todo lo que ha
 
 ### Context
 This application was created for my final project in the DAM (Digital Administration and Management) program, for which I collaborated with teachers at the I.E.S. Hervás high school.
-
 The application's objective is for medical students at this school to use it for practice, as a recurring complaint among them is that they struggle to learn how to use the Mambrino application, which is used in hospitals in Castilla-La Mancha, when they begin their clinical rotations.
-
-To address this, the school's teachers provided me with instructions on how the application should function and what its appearance should be.
-
+To achieve this, the school's teachers provided me with instructions on how the application should function and what its appearance should be.
 This application is installed on the computers at the Hervás high school, which uses its own server to manage all reports on its premises.
 
 ### What Does It Do?
